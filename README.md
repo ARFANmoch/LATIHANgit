@@ -1,1 +1,2 @@
 # LATIHANgit
+contoh commit git
